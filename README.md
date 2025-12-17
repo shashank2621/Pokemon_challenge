@@ -2,7 +2,7 @@
 
 ##  Features
 -  *Random Image Generator*: Each refresh loads two random Pikachu images from the images_pika folder.  
--  *Dynamic Winner Display*: The app compares the two random images and updates the heading (<h1>) to show:
+-  *Dynamic Winner Display*: The app compares the two random images and updates the heading to show:
   - *Cute Pika_1* if the first image wins  
   - *Cute Pika_2* if the second image wins  
   - *Both are cute* if it’s a tie  
